@@ -34,8 +34,6 @@ CREATE | READ | UPDATE | DELETE
 
 
 
-## Q & A
-### What is Add attribute?
-Its purpose is to add an attribute to the models defined in the controller class, So that it can be identified globally. 
+
 
 
